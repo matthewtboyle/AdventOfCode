@@ -44,4 +44,4 @@ const convertBinaryToNumber = (str) => {
   return result;
 }
 // console.log(convertBinaryToNumber('011011110000'))
-console.log(diagnostic(dataArray))
+// console.log(diagnostic(dataArray))
